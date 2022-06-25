@@ -1,3 +1,4 @@
 # Database
 Repository for my Database uni course.
-Please check the pdf file for detailed information
+![image](https://user-images.githubusercontent.com/74965282/175779746-bbf71091-eb21-427d-ac70-4daa627d3247.png)
+
